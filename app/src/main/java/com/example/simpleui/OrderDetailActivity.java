@@ -31,7 +31,7 @@ public class OrderDetailActivity extends AppCompatActivity {
         Log.d("debug", "address=" + address);
 
         addressTextView.setText(address);
-
+//
         // will replace to AsyncTask
 
 //        new Thread(new Runnable() {
